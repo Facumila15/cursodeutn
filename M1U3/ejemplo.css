@@ -1,0 +1,49 @@
+h1{
+   color: grey;
+   font-style: italic;
+   text-align: center;
+   text-shadow: 98px -12px 6px rgba(0,0,0,0.6);
+}
+
+img{
+    display: block;
+    margin: auto;
+    border: 21px solid #483938;
+}
+h2{
+    color: #006550;
+    font-style: italic;
+}
+h3{
+    color: #006550;
+    font-style: italic;
+}
+h4{
+    color: #006550;
+    font-style: italic;
+}
+body{
+    background-color: #A9CCE3 ;
+}
+ul{
+    color: white;
+}
+ol{
+    color: white;
+}
+.miami{
+    color: red;
+    font-size: large;
+    font-style: oblique;
+}
+.luna{
+    color: royalblue;
+    font-style: oblique;
+}
+p{
+    color: white;
+}
+.heat{
+    font-size: large;
+}
+
